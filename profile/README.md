@@ -1,8 +1,5 @@
 # Zombiecraft
 
-![IntelliJ IDEA](https://img.shields.io/static/v1?style=flat&logo=intellij-idea&label=&message=IntelliJ+IDEA&logoColor=white&labelColor=333&color=444)
-![IntelliJ IDEA](https://img.shields.io/static/v1?style=flat&logo=kotlin&label=&message=Kotlin&logoColor=white&labelColor=333&color=444)
-
 ![image](https://user-images.githubusercontent.com/23728346/234402171-c25be6e4-a1dd-4125-b546-ef1b569e1f76.png)
 
 ## Want to join the team?
