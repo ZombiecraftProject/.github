@@ -6,9 +6,10 @@
 Contact [@Stephcraft](https://github.com/Stephcraft) through the [Zombiecraft discord](https://discord.gg/RuK57JHWKT).
 
 ## Socials
-[![Discord](https://img.shields.io/static/v1?style=flat&label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2&message=Zombiecraft+Discord)](https://discord.gg/RuK57JHWKT)
+[![discord](https://img.shields.io/discord/716715975352909844?logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2&label=Zombiecraft)](https://discord.gg/RuK57JHWKT)
 [![X Follow](https://img.shields.io/static/v1?style=flat&logo=x&logoColor=ffffff&color=black&labelColor=black&message=Follow+@Zombiecraft64&label=)](https://x.com/Zombiecraft64)
-[![Instagram Follow](https://img.shields.io/static/v1?style=flat&logo=instagram&logoColor=ffffff&color=E1306C&labelColor=d61f5d&label=&message=Follow+@Zombiecraft64)](https://www.instagram.com/zombiecraft64)
+<!-- [![X Follow](https://img.shields.io/twitter/follow/Zombiecraft64?style=flat&logo=x&logoColor=ffffff&color=414141&labelColor=212121)](https://x.com/Zombiecraft64) -->
+<!-- [![Instagram Follow](https://img.shields.io/static/v1?style=flat&logo=instagram&logoColor=ffffff&color=E1306C&labelColor=d61f5d&label=&message=Follow+@Zombiecraft64)](https://www.instagram.com/zombiecraft64) -->
 
 
 <!--
