@@ -16,7 +16,7 @@ A CLI Tool to setup Minecraft servers <img src="https://i.imgur.com/mAX5KsP.png"
 A Marketing Tool for gamedev projects and beyond <img src="https://i.imgur.com/JKxEuHz.png" height="14"/> <img src="https://i.imgur.com/hI92PNK.png" height="14"/> · [Demo Page](https://marshy-dew-d95.notion.site/Marketing-Tool-223cfa0d34eb80c1af8fdf0ea4ac330c)
 
 ## Contributors
-...
+![](metrics.plugin.people.members.svg)
 
 ## Want to join the team?
 Contact [@Stephcraft](https://github.com/Stephcraft) through the [Zombiecraft discord](https://discord.gg/RuK57JHWKT).
