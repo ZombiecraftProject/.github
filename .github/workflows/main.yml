@@ -19,8 +19,11 @@ jobs:
         with:
           filename: metrics.plugin.people.members.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          user: ZombiecraftProject
           base: ""
           plugin_people: yes
+          plugin_organization: yes
+          plugin_organization_members: yes
           plugin_people_types: members
           plugin_people_limit: 100
           plugin_people_size: 28
