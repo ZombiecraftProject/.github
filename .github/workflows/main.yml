@@ -21,6 +21,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: ZombiecraftProject
           base: ""
+          config_display: large
           plugin_people: yes
           plugin_people_types: members
           plugin_people_limit: 100
