@@ -24,4 +24,4 @@ jobs:
           plugin_people: yes
           plugin_people_types: members
           plugin_people_limit: 100
-          plugin_people_size: 64
+          plugin_people_size: 48
