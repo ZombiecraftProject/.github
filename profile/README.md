@@ -1,5 +1,5 @@
 # Zombiecraft
-![zombiecraft](https://github.com/user-attachments/assets/26a2c9ae-3571-4c72-b46c-76872e4782e5)
+[![zombiecraft](https://github.com/user-attachments/assets/26a2c9ae-3571-4c72-b46c-76872e4782e5)](https://v2.zombiecraft.net)
 
 ## Repositories
 
